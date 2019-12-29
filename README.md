@@ -4,8 +4,8 @@ The project used the written functions to compute curvature measures of the data
 ## Overview
 The repository directories contains:  
 
-* [funcs](): A script of a function that accepts a normalized trajectory and computes four curvature measures including the total Euclidean distance traveled, the maximum absolute deviation, the average absolute deviation, and the area under curve (AUC).  
-* [lmm]():  A script that examining how each curvature measure differs by condition by fitting linear mixed models and showing the final result.
+* [funcs](https://github.com/mclu/LinearMixedModel/blob/master/funcs.R): A script of a function that accepts a normalized trajectory and computes four curvature measures including the total Euclidean distance traveled, the maximum absolute deviation, the average absolute deviation, and the area under curve (AUC).  
+* [lmm](https://github.com/mclu/LinearMixedModel/blob/master/lmm.R):  A script that examining how each curvature measure differs by condition by fitting linear mixed models and showing the final result.
 
 ## Installation
 The packages can be installed from R as follows:
