@@ -1,1 +1,1 @@
-# Linear-Mixed-Model
+# LinearMixedModel
