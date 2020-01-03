@@ -25,5 +25,5 @@ Linear mixed model allows both fixed and random effects, and is particularly use
 
 In the project, condition (typical vs atypical) is the sole covariate for fixed effect, and subject and exemplar are random intercepts to account for the repeated nature of the data. 
 
-# Remark
+## Remark
 This project is a revisied work from the course Stats506 taught by Dr. Henderson.
